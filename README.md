@@ -1,8 +1,14 @@
 # SSL
-Trabajos prácticos de sintaxis.
+Sintaxis y Semantica de los Lenguajes K2051
 
 Apuntes de la clase 12-04 
 
-Procesos=> Preprocesamiento (lee las instrucciones)=> Compilación=> Ensamblador=>
-Linkeo=> Entradas y Resultadps=> Fuente => Fuente preprocesado=> Código ensamblador=>
-Código objeto=> Ejectubale
+Procesos
+
+Procesador -> compilacion -> ensamblador -> linkeo
+
+Entradas y resultados
+
+Archivo Fuente -> Archivo Fuente Procesado -> Codigo Ensamblador -> Codigo objeto -> ejecutable
+
+
